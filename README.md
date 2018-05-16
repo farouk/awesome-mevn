@@ -18,3 +18,5 @@ ThE MEVN stack uses:
 ### Tutorials
 
 * [Securing MEVN Stack (Vue.js 2) Web Application using Passport](https://www.djamware.com/post/5ac8338780aca714d19d5b9e/securing-mevn-stack-vuejs-2-web-application-using-passport)
+
+* [Full Stack Shopping Cart With MEVN Stack ](https://medium.com/@jaouad_45834/full-stack-shopping-cart-with-mevn-stack-part-1-89dae1f35378)
