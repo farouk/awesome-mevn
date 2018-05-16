@@ -3,11 +3,17 @@ A curated list of awesome MEVN stack
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-### Contents
 
-- [Tools](#tools)
+## Technologies
+ThE MEVN stack uses:
 
-- [Resources](#resources)
+* [Mongo](https://www.mongodb.com/) for a NoSQL database.
+
+* [Express](https://expressjs.com/) For an HTTP Server
+
+* [VueJS](https://vuejs.org/) For Views, with the [Vuetify](https://vuetifyjs.com/) Material Design Framework
+
+* [Node](https://nodejs.org/en/) For a JavaScript runtime
 
 ### Tutorials
 
